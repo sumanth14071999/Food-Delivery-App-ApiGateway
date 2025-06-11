@@ -25,12 +25,12 @@ java -jar target/Food-Delivery-Api-Gateway.jar
 
 ## How to run application?
 ```shell
-$docker run -p 9191:9191 sumanth/Food-Delivery-Api-Gateway
+$docker run -p 9191:9191 sumanth14071999/Food-Delivery-Api-Gateway
 ```
 
 ## How to build docker image?
 ```shell
-$docker build -t sumanth/Food-Delivery-Api-Gateway .
+$docker build -t sumanth14071999/Food-Delivery-Api-Gateway .
 ```
 
 ##Endpoints
